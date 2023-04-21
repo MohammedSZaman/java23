@@ -1,0 +1,2 @@
+try block cant be used alone. Try has to be used followed by catch or finally block.
+try-catch block method is the simplest mechanism to handle exceptions.
